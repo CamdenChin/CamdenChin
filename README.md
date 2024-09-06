@@ -6,6 +6,6 @@ Additionally, I've contributed to academia as a Teaching Assistant at Duke Unive
 
 Check out my repositories to see what I've been working on, and feel free to reach out if you'd like to collaborate!
 
-[![Camden's github stats](https://github-readme-stats.vercel.app/api?username=CamdenChin)](https://github.com/CamdenChin/github-readme-stats)
+# [![Camden's github stats](https://github-readme-stats.vercel.app/api?username=CamdenChin)](https://github.com/CamdenChin/github-readme-stats)
 
 
